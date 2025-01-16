@@ -341,7 +341,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/514844e3-cdb6-4733-98d7-cf6cd49cdec1_logo_ine-300x171.png",
             "alt": "logo_ine-300x171.png"
-          }
+          },
+          "URL": "https://ine.gob.ve/"
         },
         "roles": [
           {
