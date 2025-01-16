@@ -368,7 +368,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/1d1ed0c8-8aca-4455-a820-9f61e5529fcc_logo_ucv.jpg",
             "alt": "logo_ucv.jpg"
-          }
+          },
+          "URL": "http://www.ucv.ve/"
         },
         "roles": [
           {
