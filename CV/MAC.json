@@ -35,7 +35,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/96a39336-7d71-4e87-995b-6ed46a1c3c0c_bbva_next_technologi.jpeg",
             "alt": "bbva_next_technologies_logo.jpeg"
-          }
+          },
+          "URL": "https://www.bbvatechnology.com/europa/"
         },
         "roles": [
           {
@@ -610,6 +611,7 @@
         "institution": {
           "name": "Universidad Central de Venezuela",
           "description": "Formación en el análisis y representación del espacio geográfico, empleando para ello la investigación científica básica y aplicada.",
+          "URL": "http://www.ucv.ve/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/ac39b6a2-7ef0-4609-b887-ef992454527d_logo_ucv.jpg",
             "alt": "logo_ucv.jpg"
