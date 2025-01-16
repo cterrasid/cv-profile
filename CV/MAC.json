@@ -544,6 +544,7 @@
         "startDate": "2022-03-01",
         "institution": {
           "name": "42 Madrid",
+          "URL": "https://www.42madrid.com/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/7f3ca7d0-6dc2-42f6-bf69-cb9f88809021_logo-42-widget-350x4.jpg",
             "alt": "logo-42-widget-350x410.jpg"
