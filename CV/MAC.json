@@ -642,6 +642,7 @@
         "startDate": "2019-03-01",
         "institution": {
           "name": "Adalab",
+          "URL": "https://adalab.es/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/8052cb7c-9c8b-42c4-98cd-4c43c33c18a1_adalab.jpg",
             "alt": "Adalab.jpg"
