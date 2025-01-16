@@ -588,6 +588,7 @@
         "startDate": "2024-09-01",
         "institution": {
           "name": "Universitat Oberta de Catalunya",
+          "URL": "https://www.uoc.edu/es/estudios/grados/grado-ingenieria-informatica",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/8b2279b0-763b-4d2f-a519-db816529d250_202-nova-marca-uoc.jpg",
             "alt": "202-nova-marca-uoc.jpg"
