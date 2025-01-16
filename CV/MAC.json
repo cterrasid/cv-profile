@@ -413,19 +413,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Apple iOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -438,12 +426,6 @@
       {
         "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "FlexBox",
           "type": "technology"
         }
       },
@@ -479,18 +461,6 @@
       },
       {
         "skill": {
-          "name": "Microsoft Office 365",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -503,43 +473,13 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Sass",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Slack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XCode",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
           "type": "technology"
         }
       }
