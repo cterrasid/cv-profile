@@ -20,6 +20,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/clarette-terrasi-diaz/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/cterrasid"
       }
     ]
   },
@@ -701,6 +705,10 @@
         {
           "URL": "https://www.linkedin.com/in/clarette-terrasi-diaz/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/cterrasid",
+          "type": "github"
         }
       ]
     },
