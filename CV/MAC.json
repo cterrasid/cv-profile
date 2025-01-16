@@ -1,0 +1,771 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Clarette",
+      "surnames": "Terrasi Díaz",
+      "title": "Frontend Developer",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJDQH-0I4cQA0RnYkgnJ35JBo)",
+        "country": "España",
+        "region": "Castilla-La Mancha",
+        "municipality": "Talavera de la Reina"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/clarette-terrasi-diaz/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BBVA Technology en Europa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/96a39336-7d71-4e87-995b-6ed46a1c3c0c_bbva_next_technologi.jpeg",
+            "alt": "bbva_next_technologies_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrolladora Frontend",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo de aplicaciones para el portal de BBVA Empresas Global, utilizando Javascript, Lit y Cells.\n- Énfasis en escribir código mantenible y reutilizable.\n- Desarrollo de pruebas e2e con Cucumber y WebDriverIO.\n- Desarrollo de pruebas unitarias con Karma, Mocha, Chai y Sinon."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "SinonJS",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TaxDown",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/a726e4e2-9ef7-496e-8f24-c2b6e67d6c34_taxdown_logo.jpeg",
+            "alt": "taxdown_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrolladora Frontend",
+            "startDate": "2020-10-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "- Mantenimiento del sitio web de la empresa y participación en el desarrollo de componentes y nuevas funcionalidades para la aplicación web de declaración de la renta, utilizando React y Redux.\n- Desarrollo de pruebas unitarias con Jest y React Testing Library. - Desarrollo de pruebas e2e con CypressJS."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Airtable",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Redux-Saga",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Movetia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/3ce6d474-5fe5-4fd0-a089-7452d462bdb7_8-6.png",
+            "alt": "8-6.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrolladora de iOS",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo de aplicaciones móviles nativas con Swift (Consumer Finance Caixa Bank - IKEA, FNAC y MediaMarkt), basadas en los patrones de diseño y arquitectura VIPER y MVVM.\n- Solución de problemas y mantenimiento de la aplicación."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "SwiftUI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Delonia Software",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/d7344341-04ab-4d01-b7e0-f0ce858b6d35_1631378049362.jpeg",
+            "alt": "1631378049362.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrolladora Frontend Junior",
+            "startDate": "2019-08-01",
+            "finishDate": "2019-12-01",
+            "challenges": [
+              {
+                "description": "Participación en el desarrollo de nuevas funcionalidades y mantenimiento de la aplicación web de PSN (Salup), usando React con Typescript y Redux."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ABAE - Agencia Bolivariana para Actividades Espaciales.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/6e8aa133-7df5-41e8-9ff1-83aef3b5ef0c_logoabaefull-2466702.png",
+            "alt": "LogoABAEFull-246670220.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Investigadora",
+            "startDate": "2017-12-01",
+            "finishDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "Investigación de hechos geográficos y análisis a través del procesamiento digital de imágenes provenientes de diversos sensores remotos (activos y pasivos)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "QGIS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Instituto Geográfico de Venezuela \"Simón Bolívar\"",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/abd34392-5eb9-4c7d-90a3-7e25f2d0d688_igvsb-1216627763.png",
+            "alt": "igvsb-1216627763.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Geógrafo",
+            "startDate": "2015-03-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "1. Investigación e implementación de los componentes (Datos, Metadatos y Servicios) y procesos para la construcción de la Infraestructura de Datos Espaciales (IDE) del Instituto Geográfico de Venezuela Simón Bolívar (IGVSB), con el fin de elaborar especificaciones, guías e instructivos de procedimientos basados en el bloque de normas ISO 19100. (Proyecto de Implementación de la IDEi - IGVSB, 2016-2017) \n2. Demarcación de sectores, tramos y subtramos de límites territoriales, a través de la revisión y análisis del respectivo marco jurídico, en contraste con la cartografía oficial vigente. Este proceso permitió diagnosticar el estado general de los límites, en relación a: densificación toponímica y consideración de referencias geográficas culturales, naturales y geodésicas, lo cual contribuyó a una eficiente verificación en campo de sectores, tramos y subtramos de límites. El resultado de este estudio, fue desplegado sobre una base de datos espacial diseñada en Postgres/PostGis.  (Proyecto Nacional de Límites - IGVSB, 2015-2016)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PostGIS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministerio del Poder Popular para el Ambiente",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/d7c48ac9-7f04-42fe-bc66-7d48cb2f0b1a_ministerio_del_poder.png",
+            "alt": "Ministerio_del_poder_popular_para_el_ambiente-logo-9840A20B22-seeklogo.com.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultora en materia geográfica",
+            "startDate": "2014-03-01",
+            "finishDate": "2015-08-01",
+            "challenges": [
+              {
+                "description": "Investigación del entorno geográfico de diversas Áreas Naturales Protegidas, con el fin de recabar  y tratar datos cualitativos y cuantitativos para generar información que sustentara las bases de sus respectivos Planes de Ordenamiento Territorial, en el marco del Proyecto de Gestión de las Áreas Naturales Protegidas como espacios para la conservación de la diversidad biológica."
+              }
+            ],
+            "competences": [
+              {
+                "name": "QGIS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Instituto Nacional de Estadística (INE)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/514844e3-cdb6-4733-98d7-cf6cd49cdec1_logo_ine-300x171.png",
+            "alt": "logo_ine-300x171.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Dibujante cartográfico",
+            "startDate": "2012-08-01",
+            "finishDate": "2014-12-01",
+            "challenges": [
+              {
+                "description": "Elaboración y actualización de cartografía básica para fines censales y de investigación, en el marco del postprocesamiento de datos recabados durante el Proyecto Censo 2011."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Central de Venezuela",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/1d1ed0c8-8aca-4455-a820-9f61e5529fcc_logo_ucv.jpg",
+            "alt": "logo_ucv.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Apoyo docente",
+            "startDate": "2010-02-01",
+            "finishDate": "2012-06-01",
+            "challenges": [
+              {
+                "description": "Enseñanza práctica dirigida a los estudiantes de la escuela de Geografía, en el área de Cartografía."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FlexBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LitElement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XCode",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Bases del desarrollo de software",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "42 Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/7f3ca7d0-6dc2-42f6-bf69-cb9f88809021_logo-42-widget-350x4.jpg",
+            "alt": "logo-42-widget-350x410.jpg"
+          }
+        },
+        "finishDate": "2023-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
+            "type": "technology"
+          },
+          {
+            "name": "Shellscript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería Informática",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/8b2279b0-763b-4d2f-a519-db816529d250_202-nova-marca-uoc.jpg",
+            "alt": "202-nova-marca-uoc.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciatura en Geografía",
+        "startDate": "2007-03-01",
+        "institution": {
+          "name": "Universidad Central de Venezuela",
+          "description": "Formación en el análisis y representación del espacio geográfico, empleando para ello la investigación científica básica y aplicada.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/ac39b6a2-7ef0-4609-b887-ef992454527d_logo_ucv.jpg",
+            "alt": "logo_ucv.jpg"
+          }
+        },
+        "finishDate": "2012-03-01",
+        "linkedCompetences": [
+          {
+            "name": "ArcGIS",
+            "type": "technology"
+          },
+          {
+            "name": "PostGIS",
+            "type": "technology"
+          },
+          {
+            "name": "QGIS",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Programa intensivo de formación en programación front-end",
+        "startDate": "2019-03-01",
+        "institution": {
+          "name": "Adalab",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/8052cb7c-9c8b-42c4-98cd-4c43c33c18a1_adalab.jpg",
+            "alt": "Adalab.jpg"
+          }
+        },
+        "finishDate": "2019-06-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/clarette-terrasi-diaz/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "PostGIS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "Gatsby",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "LitElement",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ]
+  }
+}
